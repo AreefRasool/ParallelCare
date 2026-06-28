@@ -7,6 +7,12 @@ The system simulates real-world hospital patient management with priority-based 
 
 ---
 
+<p align="center">
+  <img src="ParallelCare.png" alt="Banner" width="100%">
+</p>
+
+---
+
 ## 🚀 Features
 
 - 👨‍⚕️ Patient record generation (50,000 records)
