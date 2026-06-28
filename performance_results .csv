@@ -1,0 +1,5 @@
+Method,Execution Time,Speedup
+Sequential,0.724497,1.00
+POSIX Threads,1.359994,0.532720
+OpenMP,0.434986,1.665562
+MPI,0.202904,3.570644
